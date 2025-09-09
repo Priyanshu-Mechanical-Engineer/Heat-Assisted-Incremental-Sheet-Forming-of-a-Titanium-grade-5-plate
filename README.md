@@ -88,7 +88,7 @@ Key focus areas:
 
 ## 📄 Full Report  
 
-📑 [CapstoneProject_CP302_EndSem_Report.pdf](Reports/Heat%Assisted%ISF%of%grade%5%titanium%sheet.pdf)  
+📑 [CapstoneProject_CP302_EndSem_Report.pdf](Reports/Heat Assisted ISF of grade%5 titanium sheet.pdf)  
 
 ---
 
