@@ -88,7 +88,7 @@ Key focus areas:
 
 ## 📄 Full Report  
 
-📑 [CapstoneProject_CP302_EndSem_Report.pdf](Reports/Heat Assisted ISF of grade%5 titanium sheet.pdf)  
+📑 [CapstoneProject_CP302_EndSem_Report.pdf](https://github.com/Priyanshu-Mechanical-Engineer/Heat-Assisted-Incremental-Sheet-Forming-of-a-Titanium-grade-5-plate/blob/39ad2f46eee84782fe789f0a700cb1f708a34aeb/Reports/Heat%20Assisted%20ISF%20of%20grade%205%20titanium%20sheet.pdf)  
 
 ---
 
